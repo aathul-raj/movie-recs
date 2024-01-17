@@ -1,7 +1,7 @@
 # movie-recs
 
 ## what is this?
-this is a simple program that 10 similar movies in the movielens dataset to the one inputed by the user. the algorithm utilizes cosine simliarity to find movies that have the closest matches in genres to the one inputted by the user and returns them.
+this is a simple program that outputs 10 similar movies in the movielens dataset to the one inputed by the user. the algorithm utilizes cosine simliarity to find movies that have the closest matches in genres to the one inputted by the user and returns them.
 
 
 ## to run locally
