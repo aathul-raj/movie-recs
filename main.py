@@ -42,5 +42,5 @@ def get_recs(movie_title, cosine_sim, movies):
 
     return movies['title'].iloc[movie_indices]
 
-result = get_recs(movie_title="Little Women (2019)", cosine_sim=cosine_sim, movies=movies)
+result = get_recs(movie_title="Toy Story (1995)", cosine_sim=cosine_sim, movies=movies)
 print(result)
